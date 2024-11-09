@@ -5,3 +5,4 @@ openai
 numpy
 scikit-learn
 xgboost
+python-dotenv
